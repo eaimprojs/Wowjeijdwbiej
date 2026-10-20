@@ -10,20 +10,12 @@
 [![Node.js](https://img.shields.io/badge/Node.JS-24.3.0-green?logo=nodedotjs)](https://github.com/tooblewtf/bloxd)
 [![trklzz](https://img.shields.io/badge/LEAKED_BY-tooble/trklzz-red?logo=github)](https://github.com/tooblewtf)
 
-Pekora is a heavily modified and skidded economy simulator source lmao
-
 pekora discord bot : https://github.com/tooblewtf/pekora-discord-bot
 pekora clients : https://github.com/tooblewtf/pekora-client
-
-ALL LEAKED BY TOOBLE / TOOBLE TARAFINDAN LEAKLENDI
 
 </div>
 
 # WARNING
-
-Please do not re-host this to the public. we know it is a source code that can start your own revival but re-hosting is unrecommended for reasons.
-This repository is only created for leak this shitty ass revival and how they work.
-If you want to build your own roblox please DON'T MAKE A REVIVAL WITH A SRC BUILD YOUR OWN.
 
 # HOW TO SETUP
 
