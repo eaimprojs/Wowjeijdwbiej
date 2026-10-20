@@ -2,9 +2,7 @@
 </div>
 
 <h1 align="center">Pekora/Project X  (latest version from 30 AUGUST 2025)</h1>
-<p align="center">Pekora is roblox revival, i decided to leak this because chloe is an big racist and a femboy.</p>
-<p align="center">Also please do not contact me on trying to get the source setup. there are many guides on how to and if you read this guide properly you shouldn't need help.</p>
-
+<p align="center">Pekora is roblox revival, i 
 <div align="center">
 
 [![Go](https://img.shields.io/badge/GoLang-blue?logo=go)](https://github.com/tooblewtf/bloxd)
